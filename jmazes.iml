@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-core:3.3.2-stable" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jmonkeyengine:jme3-desktop:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-lwjgl3:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-glfw:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-jemalloc:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-openal:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-opencl:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl:lwjgl-opengl:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl:natives-windows:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl:natives-linux:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl:natives-macos:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-glfw:natives-windows:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-glfw:natives-linux:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-glfw:natives-macos:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-jemalloc:natives-windows:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-jemalloc:natives-linux:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-jemalloc:natives-macos:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-opengl:natives-windows:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-opengl:natives-linux:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-opengl:natives-macos:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-openal:natives-windows:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-openal:natives-linux:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.lwjgl:lwjgl-openal:natives-macos:3.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-effects:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-plugins:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-terrain:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-networking:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-testdata:3.3.2-stable" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.nifty-gui:nifty-examples:1.4.3" level="project" />
+    <orderEntry type="library" name="Maven: com.github.nifty-gui:nifty-style-black:1.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-jbullet:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: org.jmonkeyengine:jme3-niftygui:3.3.2-stable" level="project" />
+    <orderEntry type="library" name="Maven: com.github.nifty-gui:nifty:1.4.3" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: com.github.nifty-gui:nifty-default-controls:1.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ujmp:ujmp-core:0.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.json:json:20141113" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:28.0-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.17" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.11" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>
